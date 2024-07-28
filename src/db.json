@@ -1,0 +1,32 @@
+{
+  "student": [
+    {
+      "id": "2d73",
+      "rollno": "1245",
+      "name": "meghar",
+      "city": "timarni",
+      "fees": "44550"
+    },
+    {
+      "id": "edae",
+      "rollno": "452",
+      "name": "harsha",
+      "city": "indore",
+      "fees": "500000"
+    },
+    {
+      "id": "4012",
+      "rollno": "102",
+      "name": "varsha",
+      "city": "timarni",
+      "fees": "44000"
+    },
+    {
+      "id": "2055",
+      "rollno": "1213",
+      "name": "pallo",
+      "city": "jbp",
+      "fees": "5500"
+    }
+  ]
+}
